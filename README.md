@@ -1,6 +1,6 @@
 # Codes
 Statistical model, machine learning model and deep learning model
 
-Arima, Sarima and Lasso codes for statistical
+Arima, Sarima and Lasso codes for statistical '\n'
 ANN, Decision Tree and GBDT for machine learning
 CNN, RNN, LSTM for deep learning 
